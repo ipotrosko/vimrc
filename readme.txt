@@ -1,0 +1,1 @@
+moj file in vimrc
